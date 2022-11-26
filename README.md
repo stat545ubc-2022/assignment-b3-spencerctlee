@@ -20,7 +20,7 @@ These are the current files and folders:
 
 ## 3. Link to Shiny App
 
-Link to Shiny app ![alt text](https://spencerlee.shinyapps.io/bcl-app/ "here"), enjoy!
+Link to Shiny app [here](https://spencerlee.shinyapps.io/bcl-app/), enjoy!
 
 ## 4. Description of app
 
@@ -30,7 +30,7 @@ Link to Shiny app ![alt text](https://spencerlee.shinyapps.io/bcl-app/ "here"), 
 
 **Feature 3:** Allows the user to download a filtered version data as a csv file, with date and name of the dataset.
 
-**Dataset:** bcl-data, original data (credits: daattali) available![alt text](https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv "here")
+**Dataset:** bcl-data, original data (credits: daattali) available [here](https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv)
 
 ## 5. Use of repository: 
 
