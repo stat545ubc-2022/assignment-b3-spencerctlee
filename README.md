@@ -4,9 +4,9 @@ Project B3 for STAT 545B (Shiny App)
 
 ## 1. What is in the repository?
 
-This repo contains Assignment B3, **Option A**, for "STAT545b". 
+This repo contains Assignment B3, **Option A**, for "STAT545b".
 
-In this assignment, we will be creating a shiny web app with documentation, uisng option A.
+In this assignment, we will be creating a shiny web app with documentation, using option A.
 
 ## 2. What files are in this GitHub repository?
 
